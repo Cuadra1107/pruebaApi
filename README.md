@@ -82,3 +82,10 @@ Se puede acceder a cada uno de las acciones de los objectos a través de
 ```
 
 Esto para ver el detalle del resultado.
+
+### Crear base de datos
+|Comandos|
+| :-----: |
+| rake db:create |
+| rake db:migrate |
+| rake db:seed |
